@@ -2,7 +2,7 @@
 ### Eae! Meu nome é Guilherme! 💪
 <br>
 - 🏋️‍♂️ Almejante a Web Designer <br>
-- 👨‍💻 Estudando: ReactJS, JavaScript <br>
+- 👨‍💻 Estudando: NextJS, MySQL <br>
 
 <br>
 <hr><br>
