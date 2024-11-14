@@ -1,8 +1,8 @@
 
 ### Eae! Meu nome é Guilherme! 💪
 <br>
-- 🏋️‍♂️ Almejante a Web Designer <br>
-- 👨‍💻 Estudando: NextJS, MySQL <br>
+- 🏋️‍♂️ Web Designer <br>
+- 👨‍💻 Estudando: Llama 3.2, React Native & Expo 5.1 <br>
 
 <br>
 <hr><br>
