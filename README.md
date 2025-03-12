@@ -3,11 +3,7 @@
 <img src="./Green.png" />
   
 <br>
-<pre>
-<p style="font-family: 'Courier New', monospace;">
-Sou um desenvolvedor focado em front-end, com experiência em diversas tecnologias modernas, como Next.js, React, React Native, Expo, JavaScript, C# e .NET. Com essa combinação de ferramentas, busco sempre criar soluções criativas, escaláveis e de alto desempenho, que atendam às necessidades específicas de cada projeto. Tenho paixão por transformar ideias em interfaces e aplicações intuitivas, além de garantir a melhor experiência de usuário, tanto no front-end quanto no desenvolvimento de aplicativos móveis com React Native.
-</p>
-</pre>
+<img src="./Text.png" />
 <br><br>
 
 <img src="https://camo.githubusercontent.com/f8672e0c6ebb1a0a67c4fecd418a116f01010bbdfaea4ebca6d193d69325e2fe/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966" width="50" height="50" /> <br><br>
