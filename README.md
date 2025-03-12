@@ -4,10 +4,6 @@
   
 <br>
 <img src="./Text.png" />
-<br><br>
-
-<img src="https://camo.githubusercontent.com/f8672e0c6ebb1a0a67c4fecd418a116f01010bbdfaea4ebca6d193d69325e2fe/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966" width="50" height="50" /> <br><br>
-Estudando: Llama 3.2, React Native & Expo 5.1 <br>
 <br>
 <hr><br>
 
