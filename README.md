@@ -1,10 +1,13 @@
 
 <div align="center">
+<img src="./Green.png" />
   
-# Eae! Meu nome é Guilherme! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="24" height="24" />
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif" width="50" height="50" /> <br><br>
+<pre>
+<p style="font-family: 'Courier New', monospace;">
 Sou um desenvolvedor focado em front-end, com experiência em diversas tecnologias modernas, como Next.js, React, React Native, Expo, JavaScript, C# e .NET. Com essa combinação de ferramentas, busco sempre criar soluções criativas, escaláveis e de alto desempenho, que atendam às necessidades específicas de cada projeto. Tenho paixão por transformar ideias em interfaces e aplicações intuitivas, além de garantir a melhor experiência de usuário, tanto no front-end quanto no desenvolvimento de aplicativos móveis com React Native.
+</p>
+</pre>
 <br><br>
 
 <img src="https://camo.githubusercontent.com/f8672e0c6ebb1a0a67c4fecd418a116f01010bbdfaea4ebca6d193d69325e2fe/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f666978706172726f742e676966" width="50" height="50" /> <br><br>
